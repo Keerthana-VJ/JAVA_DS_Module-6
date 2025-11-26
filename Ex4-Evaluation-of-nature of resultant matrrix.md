@@ -5,12 +5,12 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 
 ## Algorithm
 1. Start the program.
-2.Read the number of rows rows and columns cols.
-3.Create three 2D arrays.
-4.Input elements for Matrix A.
-5.Input elements for Matrix B.
-6.Perform matrix addition
-7.After each row is printed, move to the next line.
+2. Read the number of rows rows and columns cols.
+3. Create three 2D arrays.
+4. Input elements for Matrix A.
+5. Input elements for Matrix B.
+6. Perform matrix addition
+7. After each row is printed, move to the next line.
 8. End the program.    
 
 ## Program:
